@@ -1,0 +1,70 @@
+
+h1 { 
+    font-family: 'Stick No Bills';
+    color: #e52165  ;
+    text-decoration: underline;
+    text-decoration-color: #0d1137;
+    font-size: 50px;
+  }
+  
+  /* button.miami {
+    background-color:#0d1137 !important;
+    border-color:#DB3EB1 !important;
+  } */
+  
+  .badge-danger {
+    background-color: #0d1137 !important;
+  }
+  
+  .wrapper {
+    height:100vh;
+    display: grid;
+  }
+  .center-wrapper {
+    align-self: center;
+    justify-self: center;
+  }
+  
+  .players_wrapper {
+    height: 200px;
+    overflow-y: scroll;
+  }
+  
+  .Toastify{
+    position:fixed;
+  }
+  
+  .badge{
+    cursor: pointer;
+  }
+  
+  .action_button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #e52165;
+    color: white;
+    padding: 15px 40px;
+    font-size: 16px;
+    font-family: 'Pacifico', cursive;
+    border: 3px solid #0d1137;
+    cursor: pointer;
+  }
+  
+  .action_button.btn_2 {
+    right: 230px;
+  }
+  
+  
+  .result_wrapper {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .result_wrapper h3 {
+    color: #0d1137;
+  }
+  .result_wrapper div {
+    font-size: 40px;
+    color: #585858;
+  }
