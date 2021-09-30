@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/YashankReactApp/static/css/main.a8e3aa1f.chunk.css",
+    "main.js": "/YashankReactApp/static/js/main.8fb640fb.chunk.js",
+    "main.js.map": "/YashankReactApp/static/js/main.8fb640fb.chunk.js.map",
+    "runtime-main.js": "/YashankReactApp/static/js/runtime-main.7730d125.js",
+    "runtime-main.js.map": "/YashankReactApp/static/js/runtime-main.7730d125.js.map",
+    "static/css/2.e49f5c05.chunk.css": "/YashankReactApp/static/css/2.e49f5c05.chunk.css",
+    "static/js/2.b47bff6c.chunk.js": "/YashankReactApp/static/js/2.b47bff6c.chunk.js",
+    "static/js/2.b47bff6c.chunk.js.map": "/YashankReactApp/static/js/2.b47bff6c.chunk.js.map",
+    "index.html": "/YashankReactApp/index.html",
+    "static/css/2.e49f5c05.chunk.css.map": "/YashankReactApp/static/css/2.e49f5c05.chunk.css.map",
+    "static/css/main.a8e3aa1f.chunk.css.map": "/YashankReactApp/static/css/main.a8e3aa1f.chunk.css.map",
+    "static/js/2.b47bff6c.chunk.js.LICENSE.txt": "/YashankReactApp/static/js/2.b47bff6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7730d125.js",
+    "static/css/2.e49f5c05.chunk.css",
+    "static/js/2.b47bff6c.chunk.js",
+    "static/css/main.a8e3aa1f.chunk.css",
+    "static/js/main.8fb640fb.chunk.js"
+  ]
+}
